@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Velkommen til Open-Gaming.dk
+Inde på vores side kan du finde mange ting inklusiv gode informationer.
 
-You can use the [editor on GitHub](https://github.com/JannickHald/open-gaming/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Hosting 
+Ønsker du at modtage hosting fra os? 
+Kontakt os idag og vi kan finde ud af at samarbejde..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Scripts og server filer?
+Ønsker du at bruge vores server filer og scripts?
+Du kan finde dem alle sammen herinde: 
+- Husk at holde dig opdateret til nye funktioner og sikkerheds opdateringer
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JannickHald/open-gaming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Udvikler?
+Ønsker du at se vores source-code og hjælpe med samarbejdet? 
+Se her: LINK
