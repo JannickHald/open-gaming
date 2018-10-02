@@ -1,4 +1,4 @@
-## Velkommen til Open-Gaming.dk
+# Velkommen til Open-Gaming.dk
 Inde på vores side kan du finde mange ting inklusiv gode informationer.
 
 ## Hosting 
@@ -13,3 +13,6 @@ Du kan finde dem alle sammen herinde:
 ## Udvikler?
 Ønsker du at se vores source-code og hjælpe med samarbejdet? 
 Se her: LINK
+
+### Links og information
+Issues
