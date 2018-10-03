@@ -15,4 +15,4 @@ Du kan finde dem alle sammen herinde:
 Se her: LINK
 
 ### Links og information
-Issues
+[Issues](https://github.com/JannickHald/open-gaming/issues) / [IRC](https://opengaming.dk/pages/irc.html)
