@@ -16,3 +16,6 @@ Se her: LINK
 
 ### Links og information
 [Issues](https://github.com/JannickHald/open-gaming/issues) / [IRC](https://opengaming.dk/pages/irc.html)
+
+#### Projekter:
+[ErDuGamer](http://erdugamer.dk) / [OpenGaming](https://opengaming.dk) / 
