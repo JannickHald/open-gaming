@@ -20,3 +20,7 @@ Se her: LINK
 
 #### Projekter:
 [ErDuGamer](http://erdugamer.dk) / [OpenGaming](https://opengaming.dk) / [RedBone Gaming](http://redbonegaming.dk) / 
+
+
+
+--En del af @haldsdata.dk
