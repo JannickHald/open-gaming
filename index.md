@@ -19,4 +19,4 @@ Se her: LINK
 [WIKI](https://github.com/JannickHald/open-gaming/wiki/Hjem)
 
 #### Projekter:
-[ErDuGamer](http://erdugamer.dk) / [OpenGaming](https://opengaming.dk) / 
+[ErDuGamer](http://erdugamer.dk) / [OpenGaming](https://opengaming.dk) / [RedBone Gaming](http://redbonegaming.dk) / 
