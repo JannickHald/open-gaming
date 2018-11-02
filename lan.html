@@ -7,13 +7,19 @@
 	</title>
 </head>
 <body>
-<style> 
-.content {
-    max-width: 600px;
-    margin: auto;
-}
-</style>
 <style>
+body {
+  font-family: Trebuchet MS;
+  padding: 20px;
+  background: #f1f1f1;
+}
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn { 
+    width: 100%;
+    padding: 0;
+  }
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -34,50 +40,17 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Farve på menuen når musen er over.*/
 li a:hover {
     background-color: #080;
 }
-body {
-  font-family: Trebuchet MS;
-  padding: 20px;
-  background: #f1f1f1;
-}
-/* Right column */
-.rightcolumn {
-  float: center;
-  width: 25%;
-  padding-left: 20px;
-}
 
-/* Fake image */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
-
-/* Add a card effect for articles */
-.card {
-  background-color: white;
-  padding: 20px;
-  margin-top: 20px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn { 
-    width: 100%;
-    padding: 0;
-  }
-}
+</style>
+<style>
+    .content{
+        max-width: 600px;
+        margin: auto;
+    }
 </style>
 <!--Start hovedmenu-->
 <div class="content">
@@ -92,6 +65,7 @@ body {
 	<li><a href="lan.html">Lan-Party</a></li>
 </ul>
 <!-- afslutning af hovedmenu -->
+<!-- Start drift status -->
  <style>
    .drift {
   }
@@ -109,17 +83,13 @@ dr f {
 <div class="drift">
     <dr><f href="drift.html">Problemer med købe systemet....</f></dr>
 </div>
-<div class="content">
-<div class="row">
-  <div class="leftcolumn">
-     <div class="card">
-      <h2>Ingen drift forstyrelser</h2>
-      <h5>Ingen</h5>
-      <p>Ingen</p>
-    </div>
-  </div>
-  </div>
-  <footer>Copyright @2018 - OpenGaming.dk</footer>
+<!-- Slut på drift status -->
+<br>
+<h4>Servere til dit Lan-Party</h4>
+<p>Hvad ønsker du? <a href="lan-f.html">Fysisk dedikerede server</a> / <a href="lan-c.html">Server i skyen</a> ?</p>
+
+
+<footer>Copyright @2018 - OpenGaming.dk</footer>
 </div>
 </body>
 </html>
